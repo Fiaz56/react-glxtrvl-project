@@ -1,0 +1,14 @@
+.header{
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 1.25rem;
+    text-align: center;
+}
+
+.header > h1,
+.header > p{
+    padding: 0 1rem;
+}

@@ -1,0 +1,52 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 10vh;
+    padding: 0 5%;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+}
+
+.color{
+    background-color: rgba(0,0,0,0.8);
+}
+
+nav .hamburger{
+    display: none;
+}
+
+nav .menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3.5rem;
+}
+
+.logo > h1,
+.footer > h1{
+    cursor: pointer;
+}
+
+@media (max-width: 700px){
+    nav .hamburger{
+        display: block;
+    }
+
+    nav .menu{
+        position: absolute;
+        top: 0vh;
+        height: 100vh;
+        width: 100%;
+        left: -100%;
+        flex-direction: column;
+        gap: 3.5rem;
+        background-color: black;
+        z-index: -1;
+    }
+
+    nav .active{
+        left: 0;
+    }
+}
