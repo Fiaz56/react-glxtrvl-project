@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-glxtrvl-project/static/css/main.5c6279eb.css",
+    "main.js": "/react-glxtrvl-project/static/js/main.9ea8a017.js",
+    "static/media/pexelsVideo.mp4": "/react-glxtrvl-project/static/media/pexelsVideo.f406dda6b950562bb691.mp4",
+    "static/media/img4.jpg": "/react-glxtrvl-project/static/media/img4.4560878771964dba3087.jpg",
+    "static/media/img2.jpg": "/react-glxtrvl-project/static/media/img2.272513c8962dae0e324a.jpg",
+    "static/media/img6.jpg": "/react-glxtrvl-project/static/media/img6.314c111ade89fd5ab8c4.jpg",
+    "static/media/img3.jpg": "/react-glxtrvl-project/static/media/img3.efa12e937fb08b8b11e9.jpg",
+    "static/media/img5.jpg": "/react-glxtrvl-project/static/media/img5.7a4a76c391d3c0f4dfe1.jpg",
+    "static/media/img7.jpg": "/react-glxtrvl-project/static/media/img7.39ebc70fffe52b5b7a46.jpg",
+    "static/media/aboutImg.jpg": "/react-glxtrvl-project/static/media/aboutImg.4c928f85e42350ff347b.jpg",
+    "static/media/earth-globe.jpg": "/react-glxtrvl-project/static/media/earth-globe.e26fd305279593652add.jpg",
+    "static/media/img1.jpg": "/react-glxtrvl-project/static/media/img1.da6618e8999e3651db7b.jpg",
+    "static/media/slick.svg": "/react-glxtrvl-project/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-glxtrvl-project/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-glxtrvl-project/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-glxtrvl-project/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-glxtrvl-project/index.html",
+    "main.5c6279eb.css.map": "/react-glxtrvl-project/static/css/main.5c6279eb.css.map",
+    "main.9ea8a017.js.map": "/react-glxtrvl-project/static/js/main.9ea8a017.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c6279eb.css",
+    "static/js/main.9ea8a017.js"
+  ]
+}
